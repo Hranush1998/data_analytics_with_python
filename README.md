@@ -1,11 +1,11 @@
 # data_analytics_with_python
 
-- Session 01: Programming for Data Analysts
+1. Session 01: Programming for Data Analysts
 
-- Session 02: Python basic Syntax, Data Structures
+2.  Session 02: Python basic Syntax, Data Structures
 
-- Session 03: Introduction to Pandas
+3.  Session 03: Introduction to Pandas
 
-- Session 04: Advanced Pandas
+4. Session 04: Advanced Pandas
 
 
